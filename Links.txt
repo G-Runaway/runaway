@@ -1,0 +1,4 @@
+Informacion basica 1ªP - https://docs.unrealengine.com/latest/INT/Resources/Templates/FirstPerson/index.html
+Diseño UI - https://docs.unrealengine.com/latest/INT/Engine/UMG/QuickStart/index.html
+IA Basica - https://docs.unrealengine.com/latest/INT/Engine/AI/BehaviorTrees/QuickStart/index.html
+Corregir texturas - https://answers.unrealengine.com/questions/39292/size-of-a-mesh.html
