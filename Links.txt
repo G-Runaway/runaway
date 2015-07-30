@@ -3,10 +3,13 @@ Diseño UI - https://docs.unrealengine.com/latest/INT/Engine/UMG/QuickStart/inde
 IA Basica - https://docs.unrealengine.com/latest/INT/Engine/AI/BehaviorTrees/QuickStart/index.html
 Corregir texturas - https://answers.unrealengine.com/questions/39292/size-of-a-mesh.html
 Tutoriales basicos - https://forums.unrealengine.com/showthread.php?43784-Serie-de-tutoriales-en-espa%C3%B1ol-sobre-Unreal-Engine-4
-Fragmentacion(Explosion) - https://www.youtube.com/watch?v=QIvcTwlosMQ
+Fragmentacion (Explosion) - https://www.youtube.com/watch?v=QIvcTwlosMQ
 Introduccion blueprints - http://www.gamedev.es/?p=17242
 Blueprints part1 - http://www.tomlooman.com/tutorial-multiplayer-supported-usableactor-system-in-blueprint
 Blueprints part2 - http://www.tomlooman.com/tutorial-basic-inventory-system-in-blueprint
 Custon depth(Borde en los objetos) - http://www.tomlooman.com/the-many-uses-of-custom-depth-in-unreal-4
 Hacer espejo - https://www.youtube.com/watch?v=Ux9VFZL_DcM
 Tutorial HUD - http://www.michalorzelek.com/blog/?p=521
+VideoTutoriales - https://www.youtube.com/user/megacric/videos
+TimeLines (Puertas) - https://docs.unrealengine.com/latest/INT/Engine/Blueprints/UserGuide/Timelines/Examples/OpeningDoors/index.html
+Como usar los BPN - https://www.youtube.com/watch?v=HcRhdRX0bok
