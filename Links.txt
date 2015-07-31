@@ -7,7 +7,8 @@ Fragmentacion (Explosion) - https://www.youtube.com/watch?v=QIvcTwlosMQ
 Introduccion blueprints - http://www.gamedev.es/?p=17242
 Blueprints part1 - http://www.tomlooman.com/tutorial-multiplayer-supported-usableactor-system-in-blueprint
 Blueprints part2 - http://www.tomlooman.com/tutorial-basic-inventory-system-in-blueprint
-Custon depth(Borde en los objetos) - http://www.tomlooman.com/the-many-uses-of-custom-depth-in-unreal-4
+Custon depth (Borde en los objetos) - http://www.tomlooman.com/the-many-uses-of-custom-depth-in-unreal-4
+                                    - http://www.michalorzelek.com/blog/tutorial-creating-outline-effect-around-objects/
 Hacer espejo - https://www.youtube.com/watch?v=Ux9VFZL_DcM
 Tutorial HUD - http://www.michalorzelek.com/blog/?p=521
 VideoTutoriales - https://www.youtube.com/user/megacric/videos
