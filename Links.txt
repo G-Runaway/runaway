@@ -14,3 +14,4 @@ Tutorial HUD - http://www.michalorzelek.com/blog/?p=521
 VideoTutoriales - https://www.youtube.com/user/megacric/videos
 TimeLines (Puertas) - https://docs.unrealengine.com/latest/INT/Engine/Blueprints/UserGuide/Timelines/Examples/OpeningDoors/index.html
 Como usar los BPN - https://www.youtube.com/watch?v=HcRhdRX0bok
+Comandos - http://www.deadendthrills.com/forum/discussion/401/list-of-ue4-console-commands
